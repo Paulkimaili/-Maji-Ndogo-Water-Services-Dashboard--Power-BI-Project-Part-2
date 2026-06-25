@@ -128,7 +128,7 @@ Relationships were rectified to remove circular and many-to-many ambiguities, en
 
 1. **Clone or download** this repository.
    ```bash
-   git clone https://github.com/<your-username>/maji-ndogo-water-services-dashboard.git
+   [git clone https://github.com/Paulkimaili/-Maji-Ndogo-Water-Services-Dashboard--Power-BI-Project-Part-2
    ```
 2. Open **`Md_water_services.xlsx`** to review the raw source tables (optional).
 3. Open the **`.pbix`** Power BI file in **Power BI Desktop**.
@@ -189,8 +189,9 @@ These results demonstrate that the model and visuals are correctly built to supp
 **Paul Kimaili**
 Data Analyst | Power BI Developer | Data Scientist
 
-- GitHub: [[your-github-profile](https://github.com/your-username)](https://github.com/Paulkimaili)
-- LinkedIn: [[your-linkedin-profile](https://linkedin.com/in/your-username)](https://www.linkedin.com/in/paul-kimaili964/)
+- Email : pkimaili2@gmail.com
+- GitHub: https://github.com/Paulkimaili
+- LinkedIn: https://www.linkedin.com/in/paul-kimaili964
 
 If you found this project useful or interesting, please consider **starring ⭐ the repo** — it helps others discover it and supports more projects like this one!
 
@@ -209,5 +210,5 @@ If you found this project useful or interesting, please consider **starring ⭐ 
 
 ---
 
-⭐ *If this project helped you understand Power BI data modeling and dashboard storytelling, give it a star!*<img width="892" height="501" alt="Powerbi_week12_queue_information" src="https://github.com/user-attachments/assets/a93ba5c1-b7d4-43bc-b7cb-1e99f9b4994f" />
+⭐ *If this project helped you understand Power BI data modeling and dashboard storytelling, give it a star!*
 
