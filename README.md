@@ -1,6 +1,6 @@
-# -Maji-Ndogo-Water-Services-Dashboard--Power-BI-Project-Part-2
 
-# 💧 Maji Ndogo Water Services Dashboard — Power BI Project (Part 2: Visualising)
+
+# 💧 Maji Ndogo Water Services Dashboard — Power BI Project Part 2
 
 An end-to-end Power BI project analyzing water access, water quality, queue dynamics, infrastructure costs, and water-source-related crime across the fictional region of **Maji Ndogo**. The project transforms raw, messy survey data into a clean relational model and a set of interactive dashboards that surface actionable insights for improving water service delivery.
 
@@ -44,8 +44,7 @@ The Power BI report is split across four interactive pages: **National Overview*
 - **Saturday** has the highest total queue time of any day (246 min total), making it the most congested day overall, while **Sunday has the lowest queue times**.
 - Among **weekdays**, **Monday** consistently has the longest queues, while **Wednesday** has the shortest.
 - Gender breakdown of queues: **69.06% female, 23.08% male, 7.86% child** on average — though this fluctuates by day. For example, the **average % of men in queues on a Saturday is 40%**, compared to an overall average of 24% male / 66% female across all days.
-- **Optimal queue timing:** For a citizen restricted to Tuesday or Thursday, the **shortest queue time is on Thursday at 15:00**.
-- At that optimal time (Thursday 15:00), only **~3% of the queue is made up of children** — much lower than the ~10–11% average seen on Sundays or across all days/times.
+- On Thursday at 15:00 hrs, only **~3% of the queue is made up of children** — much lower than the ~10–11% average seen on Sundays or across all days/times.
 
 ### 🦠 Pollution & Crime
 - Well pollution status breaks down as: **40.8% Contaminated: Chemical, 30.92% Contaminated: Biological, 28.28% Clean**.
@@ -166,7 +165,7 @@ maji-ndogo-water-services-dashboard/
 
 ---
 
-## ✅ Project Challenge — Sample Analysis Findings
+## ✅ Sample Analysis Findings
 
 This project was validated against a 10-question analytical challenge (scored on accuracy and time-to-insight), confirming the dashboard correctly supports granular, filter-driven analysis such as:
 
@@ -187,11 +186,11 @@ These results demonstrate that the model and visuals are correctly built to supp
 
 ## 👤 Author / Developer
 
-**[Your Name]**
-Data Analyst | Power BI Developer
+**Paul Kimaili**
+Data Analyst | Power BI Developer | Data Scientist
 
-- GitHub: [your-github-profile](https://github.com/your-username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-username)
+- GitHub: [[your-github-profile](https://github.com/your-username)](https://github.com/Paulkimaili)
+- LinkedIn: [[your-linkedin-profile](https://linkedin.com/in/your-username)](https://www.linkedin.com/in/paul-kimaili964/)
 
 If you found this project useful or interesting, please consider **starring ⭐ the repo** — it helps others discover it and supports more projects like this one!
 
@@ -210,4 +209,5 @@ If you found this project useful or interesting, please consider **starring ⭐ 
 
 ---
 
-⭐ *If this project helped you understand Power BI data modeling and dashboard storytelling, give it a star!*
+⭐ *If this project helped you understand Power BI data modeling and dashboard storytelling, give it a star!*<img width="892" height="501" alt="Powerbi_week12_queue_information" src="https://github.com/user-attachments/assets/a93ba5c1-b7d4-43bc-b7cb-1e99f9b4994f" />
+
